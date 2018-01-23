@@ -1,5 +1,6 @@
 namespace BusinessLayer
 {
+	// Sergio C. 1/23
     class Person
     {
         public Person(string firstName, string lastName): this(firstName, lastName, DateTime.Now)
